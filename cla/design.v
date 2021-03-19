@@ -1,23 +1,5 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    12:58:26 12/12/2020 
-// Design Name: 
-// Module Name:    design 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+
 module CLA(P0, G0, P1, G1, P2, G2, P3, G3, P4, G4, Cin, C0, C1, C2, C3, C4, C5);
 
 	input P0, G0, P1, G1, P2, G2, P3, G3, P4, G4, Cin;
